@@ -1,6 +1,6 @@
 # dgg_flutter_address_picker
 
-![Image text](http://172.16.0.25/MobileFrameworks/iOS-Modules/DGGUISpaceSDK/raw/master/Readme-image/屏幕快照%202020-01-17%2016.17.00.png)
+![Image text](https://raw.githubusercontent.com/DGGMobileDev/dgg_flutter_address_picker/master/Readme-image/m_b32b44a6ff12f4878a069cd624816b86_r.png)
 
 ## Example
 

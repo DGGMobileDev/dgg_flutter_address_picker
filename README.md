@@ -1,9 +1,10 @@
 # dgg_flutter_address_picker
 
+![Image text](http://172.16.0.25/MobileFrameworks/iOS-Modules/DGGUISpaceSDK/raw/master/Readme-image/屏幕快照%202020-01-17%2016.17.00.png)
 
 ## Example
 
-    flutter多级地址选择器
+    flutter多级地址选择器,数据源支持本地数据和网络请求数据，在本flutter包工程中新建了example示例，可以参考具体使用；
 
 ## Installation
 
